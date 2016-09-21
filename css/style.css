@@ -76,7 +76,7 @@ section{
 	width: 700px;
 	background: gray;
 	height: 600px;
-	float: center;
+	float: left;
 	margin-top: 20px;
 	border-radius: 10px;
 }

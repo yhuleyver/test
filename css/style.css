@@ -32,7 +32,7 @@ font-family: 'Indie Flower', cursive;
 color: white;
 margin-left: 10px;
 font-size: 20px;
-text-align: left; 
+text-align: center; 
 }
 
 h3{
@@ -86,7 +86,7 @@ aside{
 	background: white;
 	height: 600px;
 	float: left;
-	margin-center: 20px;
+	margin-left: 20px;
 	margin-top: 20px;
 	border-radius: 10px;
 }

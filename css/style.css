@@ -29,7 +29,7 @@ text-align: center;
 
 h2{
 font-family: 'Indie Flower', cursive;
-color: yellow;
+color: red;
 margin-left: 10px;
 font-size: 20px;
 text-align: center; 
@@ -83,7 +83,7 @@ section{
 aside{
 
 	width: 280px;
-	background: white;
+	background: teal;
 	height: 600px;
 	float: left;
 	margin-left: 20px;

@@ -58,8 +58,9 @@ border-radius: 10px;
 }
 ul{
 margin: auto;
-padding-top: 4px;
-padding: 300;
+padding-top: 3px;
+position: relative;
+left: 50%;
 
 }
 
@@ -71,6 +72,8 @@ li{
 	margin: 6px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
+	position: relative;
+	right: 50%;
 
 }
 
